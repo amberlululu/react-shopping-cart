@@ -89,8 +89,7 @@ export default class Cart extends Component {
                           onChange={this.handleInput}
                         ></input>
                       </li>
-                    </ul>
-                    <ul className="form-container">
+
                       <li>
                         <label>Name</label>
                         <input
@@ -100,8 +99,7 @@ export default class Cart extends Component {
                           onChange={this.handleInput}
                         ></input>
                       </li>
-                    </ul>
-                    <ul className="form-container">
+
                       <li>
                         <label>Address</label>
                         <input
